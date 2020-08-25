@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Ezekiel Lawson  a  Frontend Developer  who has  passion for learning, exploring, teaching web technologies, building user-friendly websites
 
 <!--
-**Emilsone/Emilsone**  is a  Frontend Developer  who has  passion for learning, exploring, teaching web technologies, building user-friendly websites, ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emilsone/Emilsone**  , ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
