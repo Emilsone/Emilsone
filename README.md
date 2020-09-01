@@ -7,7 +7,6 @@ developers across the board.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML CSS AND VUE JS
 - 📫 How to reach me: lawsonezekiel68@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Vue is the best javascript framework
 
 <!--
