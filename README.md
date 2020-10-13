@@ -1,4 +1,4 @@
-  https://github.com/account Hello there welcome to my home 👋 I'm Ezekiel Lawson  a  Frontend Developer  who has a passion for learning, exploring, teaching web technologies, building user-friendly websites
+ Hello there welcome to my Github page 👋 I'm Ezekiel Lawson  a  Frontend Developer  who has a passion for learning, exploring, teaching web technologies, building user-friendly websites
 
 - 🔭 I’m currently working on a Team Tracker Dashboard
 - 🌱 I’m currently learning How to live with vue 😄
