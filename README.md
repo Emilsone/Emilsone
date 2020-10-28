@@ -1,6 +1,6 @@
  Hello there welcome to my Github page 👋 I'm Ezekiel Lawson  a  Frontend Developer  who has a passion for learning, exploring, teaching web technologies, building user-friendly websites
 
-- 🔭 I’m currently working on a Team Tracker Dashboard
+- 🔭 I’m currently working on an E-commerce website with Nuxt js
 - 🌱 I’m currently learning How to live with vue 😄
 - 👯 I’m looking to collaborate  with people -  who are interested in working on products & sharing ideas with 
 developers across the board.
