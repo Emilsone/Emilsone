@@ -1,8 +1,7 @@
  Hello there welcome to my Github page 👋 
  
  Professional Summary
- 
- https://avatars0.githubusercontent.com/u/48225057?s=460&u=dbf4fbd875be26123cc6b9f7d14531b2633fae03&v=4
+
  
  I'm a  developer who focuses on writing clean, maintainable code.  I am constantly learning new concepts and I can help share that knowledge with your team. and I embrace the opportunity to teach, learn, explore with other team members.
 
