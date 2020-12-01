@@ -13,7 +13,7 @@ developers across the board.
 - 💬 Ask me about HTML CSS AND VUE JS Nuxt Js
 - 📫 How to reach me: lawsonezekiel68@gmail.com
 - ⚡ Fun fact: Vue is the best javascript framework
-
+-  Challenge: I Don't have a good laptop to constantly practice my skills by  building projects 
 <!--
 **Emilsone/Emilsone**, ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
