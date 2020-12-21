@@ -3,7 +3,10 @@
  
  
  - 😞 Challenge: I Don't have a good laptop to constantly practice my skills by  building projects 
- Professional Summary
+
+
+
+Professional Summary
 
  
  I'm a  developer who focuses on writing clean, maintainable code.  I am constantly learning new concepts and I can help share that knowledge with your team. and I embrace the opportunity to teach, learn, explore with other team members.
