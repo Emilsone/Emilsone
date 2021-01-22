@@ -2,7 +2,7 @@
  
  
  
- - 😞 Challenge: I Don't have a good laptop to constantly practice my skills by  building projects 
+ - 😞 Challenge: I Don't have a  laptop to constantly practice my skills by  building projects 
 
 
 
