@@ -2,7 +2,8 @@
  
  
  
- - 😞 Challenge: I Don't have a  laptop to constantly practice my skills by  building projects 
+ - 😞 Challenge: I Don't have a  laptop to constantly practice my skills by  building projects if you will like to donate a new laptop to me please kindly reach out to here (lawsonezekiel68@gmail.com)
+
 
 
 
