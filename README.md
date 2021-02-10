@@ -2,7 +2,7 @@
  
  
  
- - 😞 Challenge: I Don't have a  laptop to constantly practice my skills by  building projects if you will like to donate a new laptop to me please kindly reach out to here (lawsonezekiel68@gmail.com)
+ - 😞 Challenge: I Don't have a  laptop to constantly practice my skills by  building projects and posting it on github please if you will like to support my skills with a new laptop please kindly reach out to me here 🙏🙏🙏🙏🙏🙏🙏🙏🙏 (lawsonezekiel68@gmail.com) 
 
 
 
@@ -10,7 +10,7 @@
 Professional Summary
 
  
- I'm a  developer who focuses on writing clean, maintainable code.  I am constantly learning new concepts and I can help share that knowledge with your team. and I embrace the opportunity to teach, learn, explore with other team members.
+ I'm a  developer who focuses on writing clean and  maintainable code.  I am constantly learning new concepts and I can help share that knowledge with your team. and I embrace the opportunity to teach, learn, explore with other developers.
 
 
 - 🔭 I’m currently working on an E-commerce website with Nuxt js
@@ -20,11 +20,3 @@ developers across the board.
 - 💬 Ask me about HTML CSS AND VUE JS Nuxt Js
 - 📫 How to reach me: lawsonezekiel68@gmail.com
 - ⚡ Fun fact: Vue is the best javascript framework
-
-<!--
-**Emilsone/Emilsone**, ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
