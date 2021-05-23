@@ -16,7 +16,7 @@ Ezekiel is a  Software Developer with over 2 years of experience in frontend dev
 
 - 🔭 I’m currently working on an Team website, farm product website with Vue Js and firebase 
 - 🌱 I’m currently learning How to live with vue 😄
-- 👯 I’m looking to collaborate  with people -  who are interested in working on products & sharing ideas with 
+- 👯 I’m looking to collaborate  with people -  who are interested in working on products & sharing productive ideas with 
 developers across the board.
 - 💬 Ask me about HTML CSS AND VUE JS Nuxt Js Tailwind CSS
 - 📫 How to reach me: lawsonezekiel68@gmail.com
