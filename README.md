@@ -1,4 +1,4 @@
- Hello World  Welcome to My Github Page where some of my projects are being hosted and shared with oother developers  👋 
+ Hello World  Welcome to My Github Page where some of my projects are being hosted and i also colaborate  with other developers by working on some of their open source projects 👋 
  
  
  
