@@ -11,7 +11,7 @@
 PROFESSIONAL SUMMARY
 
 
-Ezekiel is a  Software Developer with over 2 years of experience in frontend development, building responsive website sites using these web technologies like Javascript, VueJs, HTML and CSS, Bootstrap Tailwind CSS. I specialize in  converting designs to Code. I love using different technology trends to build solutions for humanity.
+Ezekiel is a  Software Developer with over 2 years of experience in frontend development, building responsive website sites using these web technologies like Javascript, VueJs, HTML and CSS, Bootstrap Tailwind CSS. I specialize in  converting designs to Code. I love using different technologies to build solutions for humanity.
 
 
 - 🔭 I’m currently working on an Team website, farm product website with Vue Js and firebase 
