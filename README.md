@@ -18,6 +18,6 @@ Ezekiel is a  Software Developer with over 2 years of experience in frontend dev
 - 🌱 I’m currently learning How to live with vue 😄
 - 👯 I’m looking to collaborate with people -  who are interested in working on products & sharing productive ideas with 
 developers across the board.
-- 💬 Ask me about HTML CSS AND VUE JS Nuxt Js Tailwind CSS
+- 💬 Ask me about HTML CSS AND VUE JS, Nuxt Js, Tailwind CSS, 
 - 📫 How to reach me: lawsonezekiel68@gmail.com
 - ⚡ Fun fact: Vue is the best javascript framework
