@@ -11,7 +11,9 @@
 PROFESSIONAL SUMMARY
 
 
-Ezekiel is a  Software Developer with over 2 years of experience in frontend development, building responsive website sites using these web technologies like Javascript, VueJs, Nuxt Js,  HTML and CSS, Bootstrap Tailwind CSS. I specialize in converting designs to Code. I love using different technologies to solve problems for humanity.
+I'm Lawson Ezekiel a software developer who has more development experience in frontend building responsive website sites using these web technologies like Javascript, VueJs, HTML and CSS, Bootstrap Tailwind CSS. And I love teaching and sharing my technical ideas through an article.
+
+* I specialize in converting designs to Code. I love using different technologies to solve problems.
 
 
 - 🔭 I’m currently working on a Team website, farm product website with, Vue Js and firebase 
