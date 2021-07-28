@@ -13,7 +13,7 @@ PROFESSIONAL SUMMARY
 
 I'm Lawson Ezekiel a software developer who has more development experience in frontend building responsive website sites using these web technologies like Javascript, VueJs, HTML and CSS, Bootstrap Tailwind CSS. And I love teaching and sharing my technical ideas through an article.
 
-* I specialize in converting designs to Code. I love using different technologies to solve problems.
+* I specialize in converting designs to Code. I love using different technologies to solve technical problems.
 
 
 - 🔭 I’m currently working on a Team website, farm product website with, Vue Js and firebase 
