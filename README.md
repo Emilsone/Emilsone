@@ -2,7 +2,7 @@
  
  
  
- - 😞 Challenge: I Don't have a good  laptop to constantly practice my skills I'm  having  issues with the old laptop  please if you will like to support me  with a new laptop please kindly reach out to me here 🙏� (lawsonezekiel68@gmail.com) or https://www.linkedin.com/in/lawson-ezekiel/
+ - 😞 Challenge: I Don't have a good laptop to constantly practice my skills I'm  having  issues with the old laptop  please if you will like to support me  with a new laptop please kindly reach out to me here 🙏� (lawsonezekiel68@gmail.com) or https://www.linkedin.com/in/lawson-ezekiel/
 
 
 
