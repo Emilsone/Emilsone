@@ -1,11 +1,5 @@
  Hello World!  Welcome to My Github Page where some of my projects are being  shared and I also collaborate  with other developers by working on some  open-source projects 👋 
  
- 
- 
- - 😞 Challenge: I Don't have a good laptop to constantly practice my skills I'm  having  issues with the old laptop  please if you will like to support me  with a new laptop please kindly reach out to me through my email 🙏� (lawsonezekiel68@gmail.com) or https://www.linkedin.com/in/lawson-ezekiel/
-
-
-
 
 
 PROFESSIONAL SUMMARY
