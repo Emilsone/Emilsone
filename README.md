@@ -1,5 +1,5 @@
 
-## Ezekiel Lawson
+# Ezekiel Lawson
 ### FRONTEND DEVELOPER AND TECHNICAL WRITER
 
 <br>
