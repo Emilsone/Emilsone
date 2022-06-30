@@ -1,13 +1,12 @@
-
 # Ezekiel Lawson
-### FRONTEND DEVELOPER AND TECHNICAL WRITER
+
+#### FRONTEND DEVELOPER AND TECHNICAL WRITER
 
 <br>
 
 ## Profile
 
 Detailed-oriented Front End developer with 2+ years of experience working with HTML, CSS, Tailwind, JavaScript, VueJs, and Git. Worked on single and collaborative projects, with a focus on landing page and website development.
-
 
 ## Core Technologies
 
@@ -37,7 +36,9 @@ Detailed-oriented Front End developer with 2+ years of experience working with H
 <br>
 
 ## Social
+
 <br>
+
 <div id="badges">
   <a href="http://www.linkedin.com/in/lawson-ezekiel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -48,47 +49,51 @@ Detailed-oriented Front End developer with 2+ years of experience working with H
    
 </div>
 
-<br/>
+<br>
 
 ## Technical Writing
 
- I appreciate using articles to educate and share my technical knowledge and experience. Because I see things in a way that few others don't, I know that sharing what I've learned will benefit others. I've written a lot of articles, and here's a list of them:
+I appreciate using articles to educate and share my technical knowledge and experience. Because I see things in a way that few others don't, I know that sharing what I've learned will benefit others. I've written a lot of articles, and here's a list of them:
 
+<br/>
 
+<div id="Articles">
 
-https://javascript.works-hub.com/learn/managing-your-state-application-in-javascript-ddc38
-
-
-
-https://sweetcode.io/caching-your-dynamic-components-with-vue-keep-alive/
-
-
-
-
-
-https://blog.logrocket.com/understanding-javascript-currying/
-
-https://www.geeksforgeeks.org/consuming-a-rest-api-with-axios-in-vue-js/
-
-
-
-https://lawsonezekiel68.medium.com/eight-security-tips-to-prevent-your-web-application-from-being-hacked-c11680118ad5
-
-
-
+  <a href="https://javascript.works-hub.com/learn/managing-your-state-application-in-javascript-ddc38">
+    <img src="https://img.shields.io/badge/Functionalworks-orange?style=for-the-badge&logo=functional.works&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sweetcode.io/caching-your-dynamic-components-with-vue-keep-alive/">
+    <img src="https://img.shields.io/badge/Sweetcode-red?style=for-the-badge&logo=Sweetcode&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://blog.logrocket.com/understanding-javascript-currying/">
+    <img src="https://img.shields.io/badge/Logrocket-purple?style=for-the-badge&logo=Logrocket&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/consuming-a-rest-api-with-axios-in-vue-js/">
+    <img src="https://img.shields.io/badge/Geeksforgeeks-green?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://lawsonezekiel68.medium.com/eight-security-tips-to-prevent-your-web-application-from-being-hacked-c11680118ad5">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="
 https://www.works-hub.com/learn/what-is-vue-emit-47bc7
+">
+    <img src="https://img.shields.io/badge/Functionalworks-orange?style=for-the-badge&logo=functional.works&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<a href="https://sweetcode.io/best-practices-for-writing-vue-js/">
+    <img src="https://img.shields.io/badge/Sweetcode-red?style=for-the-badge&logo=Sweetcode&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<a href="https://blog.openreplay.com/programming-imperative-vs-declarative">
+    <img src="https://img.shields.io/badge/Openreplay-blue?style=for-the-badge&logo=blog.openreplay&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
+<br>
 
+More About Me
 
-https://sweetcode.io/best-practices-for-writing-vue-js/
-
-
-Other
-
-- 🔭 I’m currently working on a Team website, farm product website with, Vue Js and firebase 
+- 🔭 I’m currently working on a Team website, farm product website with, Vue Js and firebase
 - 🌱 I’m currently learning How to live with vue 😄
-- 👯 I’m looking to collaborate with people -  who are interested in working on products & sharing productive ideas with 
-developers across the board.
-- 💬 Ask me about HTML CSS AND VUE JS, Nuxt Js, Tailwind CSS, 
+- 👯 I’m looking to collaborate with people - who are interested in working on products & sharing productive ideas with developers across the board.
+- 💬 Ask me about HTML, CSS, VUEJS, JavaScript Nuxt Js, Tailwind CSS,
 - 📫 How to reach me: lawsonezekiel68@gmail.com
 - ⚡ Fun fact: Vue is the best javascript framework
