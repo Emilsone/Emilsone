@@ -99,4 +99,4 @@ https://www.works-hub.com/learn/what-is-vue-emit-47bc7
 - 👯 I’m looking to collaborate with people - Who are interested in working on products & sharing productive ideas with other developers across the board.
 - 💬 Ask me about HTML, CSS, VUEJS, JAVASCRIPT NUXTJS  TAILWIND CSS
 - 📫 How to reach me: lawsonezekiel68@gmail.com
-- ⚡ Fun fact: Vue is the best javascript framework
+- ⚡ Fun fact: Vue is the best Javascript framework
