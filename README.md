@@ -94,7 +94,7 @@ https://www.works-hub.com/learn/what-is-vue-emit-47bc7
 
 ## More About Me
 
-- 🔭 I’m currently working on a Project tracking website, farm product website with Vue.Js and firebase
+- 🔭 I’m currently working on a Project tracking website, farm product website with Vue.Js and firebase, and  School website 
 - 🌱 I’m currently learning How to live with Vue 😄
 - 👯 I’m looking to collaborate with people - Who are interested in working on products & sharing productive ideas with other developers across the board.
 - 💬 Ask me about HTML, CSS, VUEJS, JAVASCRIPT NUXTJS  TAILWIND CSS
