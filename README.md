@@ -2,7 +2,7 @@
 
 ### FRONTEND DEVELOPER AND TECHNICAL WRITER
 
-<br>
+<br><br>
 
 ## Profile
 
