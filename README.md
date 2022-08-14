@@ -6,7 +6,7 @@
 
 ## Profile
 
-Detailed-oriented Front End developer with good years of experience working with HTML, CSS, Tailwind, JavaScript, VueJs, and Git. Worked on single and collaborative projects, with a focus on landing page and website development.
+Detailed-oriented Front End developer and Technical writer with good years of experience working with HTML, CSS, Tailwind, JavaScript, VueJs, and Git. Worked on single and collaborative projects, with a focus on landing page and website development.
 
 ## Core Technologies
 
