@@ -67,6 +67,9 @@ I appreciate using articles to educate and share my technical knowledge and expe
   <a href="https://sweetcode.io/caching-your-dynamic-components-with-vue-keep-alive/">
     <img src="https://img.shields.io/badge/Sweetcode-red?style=for-the-badge&logo=Sweetcode&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://sweetcode.io/best-practices-for-writing-vue-js/">
+    <img src="https://img.shields.io/badge/Sweetcode-red?style=for-the-badge&logo=Sweetcode&logoColor=white" alt="Twitter Badge"/>
+  </a>
    <a href="https://blog.logrocket.com/understanding-javascript-currying/">
     <img src="https://img.shields.io/badge/Logrocket-purple?style=for-the-badge&logo=Logrocket&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -79,13 +82,19 @@ I appreciate using articles to educate and share my technical knowledge and expe
   <a href="
 https://www.works-hub.com/learn/what-is-vue-emit-47bc7
 ">
-    <img src="https://img.shields.io/badge/Functionalworks-orange?style=for-the-badge&logo=functional.works&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Functionalworks-orange?style=for-the-badge&logo=functional.works&logoColor=white" alt="Workshub Badge"/>
   </a>
 <a href="https://sweetcode.io/best-practices-for-writing-vue-js/">
-    <img src="https://img.shields.io/badge/Sweetcode-red?style=for-the-badge&logo=Sweetcode&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Sweetcode-red?style=for-the-badge&logo=Sweetcode&logoColor=white" alt="Sweetcode Badge"/>
   </a>
 <a href="https://blog.openreplay.com/programming-imperative-vs-declarative">
-    <img src="https://img.shields.io/badge/Openreplay-blue?style=for-the-badge&logo=blog.openreplay&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Openreplay-blue?style=for-the-badge&logo=blog.openreplay&logoColor=white" alt="Openreplay Badge"/>
+  </a>
+  <a href="https://blog.openreplay.com/11-authentication-mistakes-and-how-to-fix-them">
+    <img src="https://img.shields.io/badge/Openreplay-blue?style=for-the-badge&logo=blog.openreplay&logoColor=white" alt="Openreplay Badge"/>
+  </a>
+    <a href="https://blog.openreplay.com/validating-forms-with-vue-formulate">
+    <img src="https://img.shields.io/badge/Openreplay-blue?style=for-the-badge&logo=blog.openreplay&logoColor=white" alt="Openreplay Badge"/>
   </a>
 </div>
 
