@@ -1,12 +1,15 @@
 # Ezekiel Lawson
 
-### FRONTEND DEVELOPER AND TECHNICAL WRITER
 
-<br><br>
+<h3 style="font-family: 'Lucida Console';">FRONTEND DEVELOPER AND TECHNICAL WRITER</h3>
+
+<br>
 
 ## Profile
 
-Detailed-oriented Front End developer and Technical writer with good years of experience working with HTML, CSS, Tailwind, JavaScript, VueJs, and Git. Worked on single and collaborative projects, with a focus on landing page and website development.
+<span style="font-family: 'Lucida Console';">Detailed-oriented Front End developer and Technical writer with good years of experience working with HTML, CSS, Tailwind, JavaScript, VueJs, and Git. Worked on single and collaborative projects, with a focus on landing page and website development.</span>
+
+<br>
 
 ## Core Technologies
 
@@ -21,6 +24,8 @@ Detailed-oriented Front End developer and Technical writer with good years of ex
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1866C1?style=for-the-badge&logo=Vuetify&logoColor=white)
+![Telerik](https://img.shields.io/badge/telerik-5CE500?style=for-the-badge&logo=Telerik&logoColor=white)
 
 <br>
 
@@ -34,6 +39,7 @@ Detailed-oriented Front End developer and Technical writer with good years of ex
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=white)
+![Github](https://img.shields.io/badge/NETLIFY-3AADBC?style=for-the-badge&logo=NETLIFY&logoColor=white)
 
 <br>
 
@@ -48,14 +54,24 @@ Detailed-oriented Front End developer and Technical writer with good years of ex
   <a href="https://twitter.com/Vuedian">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+ <a href="https://instagram.com/emilson_vue">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+   <a href="https://medium.com/lawsonezekiel68">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
    
+   <a href="https://dev.to/silentdev">
+    <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=DEV&logoColor=white" alt="Dev.to Badge"/>
+  </a>
 </div>
 
 <br>
 
 ## Technical Writing
 
-I appreciate using articles to educate and share my technical knowledge and experience. Because I see things in a way that few others don't, I know that sharing what I've learned will benefit others. I've written a lot of articles, and here's a list of them:
+<span style="font-family: 'Lucida Console';">I appreciate using articles to educate and share my technical knowledge and experience. Because I see things in a way that few others don't, I know that sharing what I've learned will benefit others. I've written a lot of articles, and here's a list of them:</span>
 
 <br/>
 
@@ -103,9 +119,17 @@ https://www.works-hub.com/learn/what-is-vue-emit-47bc7
 
 ## More About Me
 
-- 🔭 I’m currently working on a Project tracking website, farm product website with Vue.Js and firebase, and  School website 
-- 🌱 I’m currently learning How to live with Vue 😄
-- 👯 I’m looking to collaborate with people - Who are interested in working on products & sharing productive ideas with other developers across the board.
-- 💬 Ask me about HTML, CSS, VUEJS, JAVASCRIPT NUXTJS  TAILWIND CSS
-- 📫 How to reach me: lawsonezekiel68@gmail.com
-- ⚡ Fun fact: Vue is the best Javascript Framework
+
+<span style="font-family: 'Lucida Console';">- 🔭 I’m currently working on a Project tracking website, farm product website, School website using  Vue.Js and firebase.
+</span>
+
+<span style="font-family: 'Lucida Console';">- 🌱 I’m currently learning How to live with Vue 😄</span>
+<span style="font-family: 'Lucida Console';">- 👯 I’m looking to collaborate with people - Who are interested in working on products & sharing productive ideas with other developers across the board.</span>
+
+<span style="font-family: 'Lucida Console';">
+- 💬 Ask me about HTML, CSS, VUEJS, JAVASCRIPT NUXTJS  TAILWIND CSS</span>
+
+<span style="font-family: 'Lucida Console';"> - 📫 How to reach me: lawsonezekiel68@gmail.com</span>
+
+<span style="font-family: 'Lucida Console';">- ⚡ Fun fact: Vue is the best Javascript Framework
+</span>
