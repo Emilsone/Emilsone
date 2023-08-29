@@ -7,7 +7,7 @@
 
 ## Profile
 
-<span style="font-family: 'Lucida Console';">Detailed-oriented Front End developer and Technical writer with good years of experience working with HTML, CSS, Tailwind, JavaScript, VueJs, and Git. Worked on single and collaborative projects, with a focus on landing page and website development.</span>
+<span style="font-family: 'Lucida Console';">Detailed-oriented Front End developer with 2+ years of experience working with HTML, CSS, JavaScript, VueJs, and Git. Aside from that, I work as a technical writer. I appreciate sharing how I solve technical problems using web technologies through writing. With my writing skills, I am able to simplify complex topics and produce instructional content to help people grasp them.</span>
 
 <br>
 
