@@ -123,16 +123,16 @@ https://www.works-hub.com/learn/what-is-vue-emit-47bc7
 ## More About Me
 
 
-<span style="font-family: 'Lucida Console';">- 🔭 I’m currently working on a Project tracking website, farm product website, School website using  Vue.Js and firebase.
+<span style="font-family: 'Lucida Console';">- 🔭 I’m currently working on a Project tracking website, farm product website, School website using  Vue.Js, and Firebase.
 </span>
 
 <span style="font-family: 'Lucida Console';">- 🌱 I’m currently learning How to live with Vue 😄</span>
 <span style="font-family: 'Lucida Console';">- 👯 I’m looking to collaborate with people - Who are interested in working on products & sharing productive ideas with other developers across the board.</span>
 
 <span style="font-family: 'Lucida Console';">
-- 💬 Ask me about HTML, CSS, VUEJS, JAVASCRIPT NUXTJS  TAILWIND CSS</span>
+- 💬 Ask me about | HTML | CSS| VUEJS | JAVASCRIPT | NUXTJS | TAILWIND CSS | Firebase | APPWRITE </span>
 
 <span style="font-family: 'Lucida Console';"> - 📫 How to reach me: lawsonezekiel68@gmail.com</span>
 
-<span style="font-family: 'Lucida Console';">- ⚡ Fun fact: Vue is the best Javascript Framework
+<span style="font-family: 'Lucida Console';">- ⚡ Fun fact: 
 </span>
