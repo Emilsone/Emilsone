@@ -7,7 +7,7 @@
 
 ## Profile
 
-<span style="font-family: 'Lucida Console';">Detailed-oriented Front End developer with 2+ years of experience working with HTML, CSS, JavaScript, VueJs, and Git. Aside from that, I work as a technical writer. I appreciate sharing how I solve technical problems using web technologies through writing. With my writing skills, I am able to simplify complex topics and produce instructional content to help people grasp them.</span>
+<span style="font-family: 'Lucida Console';">I'm Ezekiel Lawson, a Frontend Developer and Technical Writer with over 2+ years of experience. I use HTML, CSS, JavaScript, and VueJs to create functional websites and pixel-perfect designs. Additionally, I create articles to enhance the visibility of a company’s software products and tools. I excel in creating tutorials, how-to guides, and marketing content within the realm of frontend development. I have collaborated with several blogs to create content with track records listed in my experience. </span>
 
 <br>
 
