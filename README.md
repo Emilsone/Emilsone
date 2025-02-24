@@ -129,7 +129,7 @@ https://www.works-hub.com/learn/what-is-vue-emit-47bc7
 <span style="font-family: 'Lucida Console';">
 - 💬 Ask me about | HTML | CSS| VUEJS | JAVASCRIPT | NUXTJS | TAILWIND CSS | FIREBASE | APPWRITE </span>
 
-<span style="font-family: 'Lucida Console';"> - 📫 How to reach me: lawsonezekiel68@gmail.com</span>
+<span style="font-family: 'Lucida Console';"> - 📫 How to reach me: https://www.linkedin.com/in/lawson-ezekiel</span>
 
 <span style="font-family: 'Lucida Console';">- ⚡ Fun fact: 
 </span>
