@@ -1,7 +1,7 @@
 # Ezekiel Lawson
 
 
-<h3 style="font-family: 'Lucida Console';">FRONTEND DEVELOPER AND TECHNICAL WRITER</h3>
+<h3 style="font-family: 'Lucida Console';">FRONTEND DEVELOPER & TECHNICAL WRITER</h3>
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## Social
+## Social Links
 
 <br>
 
