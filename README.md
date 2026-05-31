@@ -2,7 +2,7 @@
 
 ### Frontend Developer & Technical Writer
 
-**Most software products struggle with two things at once: a polished, functional interface and content that actually drives visibility. I bridge both.**
+**Most software products struggle with two things at once: a polished, functional website and content that actually drives visibility. I bridge both.**
 
 I build functional, pixel-perfect web interfaces and create content that helps software products get discovered.
 
