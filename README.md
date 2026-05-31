@@ -6,7 +6,7 @@
 
 I build functional, pixel-perfect web interfaces and create content that helps software products get discovered.
 
-With 2+ years of experience, I work across the full frontend stack and write tutorials, how-to guides, and marketing articles focused on frontend development, with a proven track record across multiple tech publications.
+With 3+ years of experience, I work across the full frontend stack and write tutorials, how-to guides, and marketing articles focused on frontend development, with a proven track record across multiple tech publications.
 
 **Open to collaborations, freelance projects, and writing opportunities.**
 
